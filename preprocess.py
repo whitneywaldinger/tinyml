@@ -1,3 +1,6 @@
+# Whitney Waldinger and Chase Vara
+# Python Script to Pre-Process Data before Uploading to Edge Impulse
+
 import os
 import json
 import shutil
